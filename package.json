@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-cloud-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardodma/whatsapp-cloud-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardodma/whatsapp-cloud-bot/issues"
+  },
+  "homepage": "https://github.com/leonardodma/whatsapp-cloud-bot#readme",
+  "dependencies": {
+    "whatsapp-cloud-api": "^0.2.5"
+  }
+}
